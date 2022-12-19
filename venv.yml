@@ -1,0 +1,15 @@
+name: base
+channels:
+  - defaults
+dependencies:  
+  - python=3.9.7
+  - itertools
+  - matplotlib
+  - numpy
+  - pandas
+  - scipy
+  - seaborn
+  - sklearn
+  - tqdm
+
+prefix: /Users/xzou/opt/anaconda3
